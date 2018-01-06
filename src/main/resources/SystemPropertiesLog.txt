@@ -1,0 +1,3 @@
+|Sl |System.property          |Key            |
+|---|-------------------------|---------------|
+|1  |Set for PDP Validation   |ProductNameText|
